@@ -1,6 +1,6 @@
-import Models.*;
-import Models.Comparators.BeeComparator;
-import Services.HiveService;
+import models.*;
+import models.comparators.BeeComparator;
+import services.HiveService;
 import com.github.javafaker.Faker;
 import java.util.Random;
 import java.util.stream.Collectors;

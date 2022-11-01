@@ -1,4 +1,4 @@
-package Models.Interfaces;
+package models.interfaces;
 
 public interface Oviposition {
     public void makeNewEggs();

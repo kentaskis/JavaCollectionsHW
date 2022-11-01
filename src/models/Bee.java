@@ -1,11 +1,10 @@
-package Models;
+package models;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
 
 import java.util.Date;
-import java.util.Locale;
 import java.util.Objects;
 
 @Getter

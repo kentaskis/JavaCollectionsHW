@@ -1,7 +1,7 @@
-package Models;
+package models;
 
-import Models.Interfaces.Flying;
-import Models.Interfaces.Reproducing;
+import models.interfaces.Flying;
+import models.interfaces.Reproducing;
 
 import java.util.Date;
 

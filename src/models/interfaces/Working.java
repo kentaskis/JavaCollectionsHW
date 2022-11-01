@@ -1,4 +1,4 @@
-package Models.Interfaces;
+package models.interfaces;
 
 public interface Working {
     public void work();

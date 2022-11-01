@@ -1,6 +1,6 @@
-package Models.Comparators;
+package models.comparators;
 
-import Models.Bee;
+import models.Bee;
 
 import java.util.Comparator;
 

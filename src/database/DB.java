@@ -1,7 +1,7 @@
-package Database;
+package database;
 
-import Models.Bee;
-import Models.WorkerBee;
+import models.Bee;
+import models.WorkerBee;
 import lombok.Getter;
 import lombok.Setter;
 import org.jetbrains.annotations.NotNull;

@@ -1,8 +1,8 @@
-package Services;
+package services;
 
-import Database.DB;
-import Models.Bee;
-import Models.WorkerBee;
+import database.DB;
+import models.Bee;
+import models.WorkerBee;
 import lombok.Getter;
 import lombok.Setter;
 

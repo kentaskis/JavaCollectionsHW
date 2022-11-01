@@ -1,7 +1,7 @@
-package Models;
+package models;
 
-import Models.Interfaces.Oviposition;
-import Models.Interfaces.Reproducing;
+import models.interfaces.Oviposition;
+import models.interfaces.Reproducing;
 
 import java.util.Date;
 
