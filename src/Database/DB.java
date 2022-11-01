@@ -11,12 +11,12 @@ import java.util.*;
 @Getter
 @Setter
 public class DB {
-    private TreeMap<Bee, Integer > hive = new TreeMap<>();
+    private TreeMap<Bee, Integer> hive = new TreeMap<>();
     private Set<String> classBee = new TreeSet<>();
     private Deque<WorkerBee> beeOnVocation = new ArrayDeque<>();
 
-    public void addBeeToHive(Integer number,Bee bee) {
-        hive.put(bee,number);
+    public void addBeeToHive(Integer number, Bee bee) {
+        hive.put(bee, number);
     }
 
     public Integer getBeeByNumber(Bee bee) {

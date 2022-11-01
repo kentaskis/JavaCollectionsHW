@@ -22,7 +22,7 @@ public class Bee implements Comparable<Bee> {
     @Override
     public int compareTo(Bee anotherBee) {
         int res;
-        return (res=this.size.compareTo(anotherBee.size)) == 0 ? this.birthday.compareTo(anotherBee.birthday) : res;
+        return (res = this.size.compareTo(anotherBee.size)) == 0 ? this.birthday.compareTo(anotherBee.birthday) : res;
     }
 
     @Override
