@@ -29,7 +29,7 @@ public class HiveService {
         return db.getHive();
     }
 
-    public Set<String> getUniqueTypesOfBe() {
+    public Set<String> getUniqueTypesOfBee() {
         return db.getClassBee();
     }
 

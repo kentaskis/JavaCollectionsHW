@@ -19,7 +19,7 @@ public class DB {
         hive.put(bee, number);
     }
 
-    public Integer getBeeByNumber(Bee bee) {
+    public Integer getNumberByBee(Bee bee) {
         return hive.get(bee);
     }
 
